@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1441423565 source:c:\users\admin\desktop\bai toan to mau do thi\donam_code_bai toan to mau_welch_powell\vertex_coloring_nam\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

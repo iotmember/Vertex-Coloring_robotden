@@ -1,0 +1,44 @@
+=====================DATA OF INPUT GRAPH======================
+So dinh= 10
+
+Dinh	Bac	Danh sach Ke
+1	5	2 6 7 8 10 
+2	2	1 4 
+3	3	4 5 7 
+4	4	2 3 9 10 
+5	3	3 7 10 
+6	2	1 7 
+7	4	1 3 5 6 
+8	2	2 9 
+9	2	4 8 
+10	3	1 4 5 
+
+=====================DATA OF OUTPUT RESULTS======================
+1.Day cac Dinh sap xep theo thu tu KHONG TANG cua Bac:
+  1     4     7     5     3     10     2     8     9     6   
+Dinh	Bac	Danh sach Ke
+1	5	2 6 7 8 10 
+4	4	2 3 9 10 
+7	4	1 3 5 6 
+5	3	3 7 10 
+3	3	4 5 7 
+10	3	1 4 5 
+2	2	1 4 
+8	2	2 9 
+9	2	4 8 
+6	2	1 7 
+
+
+2.KET QUA TO MAU DO THI TREN THEO THUAT TOAN WELCH-POWELL:
+Dinh	Mau
+1	1
+2	2
+3	3
+4	1
+5	1
+6	3
+7	2
+8	2
+9	3
+10	2
+Sac so= 3
